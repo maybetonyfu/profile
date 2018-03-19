@@ -74,5 +74,5 @@ Example:
     Enable profile 'test':
         eval $(profile siwtch test)
     Alternative way of running previous example:
-        profile switch test | sourc
+        profile switch test | source
 ```
