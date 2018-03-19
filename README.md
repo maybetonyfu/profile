@@ -70,7 +70,7 @@ Example:
     Print environment variables of profile 'test':
         profile switch test
     Enable profile 'test':
-        eval $(profile siwtch test)
+        eval $(profile switch test)
     Alternative way of running previous example:
         profile switch test | source
 ```
