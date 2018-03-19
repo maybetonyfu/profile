@@ -21,6 +21,8 @@ Example:
         $base_command switch test
     Enable profile 'test':
         eval \$($base_command siwtch test)
+    Alternative way of running previous example:
+        $base_command switch test | source
 EOM
 )
 
